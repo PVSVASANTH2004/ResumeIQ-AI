@@ -33,8 +33,8 @@ env/
 data/models/*.pkl
 data/models/resume_classifier/
 
-# Training artifacts
-training/plots/
+# Training artifacts — plots are committed for README embedding
+# training/plots/
 
 # OS
 .DS_Store
