@@ -1,0 +1,41 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Database
+*.db
+*.sqlite3
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Memory (local session files)
+.claude/
+
+# Large binary model files — regenerate with: python training/run_all_training.py
+data/models/*.pkl
+data/models/resume_classifier/
+
+# Training artifacts
+training/plots/
+
+# OS
+.DS_Store
+Thumbs.db
