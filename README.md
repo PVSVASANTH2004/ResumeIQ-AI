@@ -1,9 +1,5 @@
 # ResumeIQ AI
 ### Explainable Context-Aware Resume Intelligence Platform
-**IR INFOTECH — AI/ML Intern — Round 4: Machine Learning & Model Training**
-
-> Submission by **Ponukumati Venkata Subrahmanya Vasanth**
-> B.Tech CSE, VIT Vellore | GPA 8.5 | ponukumativasanth@gmail.com
 
 ---
 
@@ -396,5 +392,4 @@ Open **http://localhost:8501**, upload a resume PDF, paste a job description, cl
 
 ---
 
-*ResumeIQ AI — Built for IR INFOTECH Round 4 Practical Assessment*
-*Deadline: 01 July 2026*
+
